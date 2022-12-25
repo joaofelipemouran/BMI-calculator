@@ -1,6 +1,6 @@
-nome = "João Felipe"
-peso = 64
-altura = 1.70
-imc = peso / altura ** 2
-resultado = f'{imc:.2f}'
-print(resultado)
+name = "João Felipe"
+height = 64
+Weight = 1.70
+imc = Weight / height ** 2
+result = f'João Felipe tem um imc de {imc:.2f}'
+print(result)
